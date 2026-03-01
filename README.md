@@ -23,11 +23,11 @@ This project demonstrates:
 
 # 🏆 Results
 
-| Metric | Score |
-|------|------|
-| Validation | ADD YOUR SCORE |
-| Kaggle Public | ADD |
-| Kaggle Private | ADD |
+|      Metric     |   Score |
+|-----------------|---------|
+| Validation      | 0.9557  |
+| Kaggle Public   | 0.95511 |
+| Kaggle Private  | 0.09356 |
 
 ---
 
