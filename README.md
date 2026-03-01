@@ -1,5 +1,5 @@
 
-# 🧠 Kaggle Competition Solution — Production‑Grade ML Pipeline
+# 🧠 Kaggle Competition Solution 
 
 Author: Mohamad Farahani  
 Role Target: Machine Learning Engineer / Data Scientist
@@ -104,15 +104,3 @@ Model Optimization
 Experiment Tracking
 
 Production‑Ready Code
-
----
-
-# 📬 Contact
-
-Mohamad Farahani
-
-LinkedIn:
-ADD LINK
-
-GitHub:
-ADD LINK
