@@ -2,8 +2,7 @@
 # 🧠 Kaggle Competition Solution 
 
 Author: Mohamad Farahani  
-Role Target: Machine Learning Engineer / Data Scientist
-
+https://www.kaggle.com/competitions/playground-series-s6e2/overview
 ---
 
 # 🚀 Overview
