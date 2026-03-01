@@ -7,16 +7,7 @@ https://www.kaggle.com/competitions/playground-series-s6e2/overview
 
 # 🚀 Overview
 
-This repository contains a production‑level machine learning pipeline built for a Kaggle competition.
-
-This project demonstrates:
-
-• End‑to‑end ML pipeline design  
-• Feature engineering  
-• Hyperparameter optimization  
-• Model training and evaluation  
-• Inference pipeline  
-• Reproducibility  
+This repository contains a notebook built for a Kaggle competition.
 
 ---
 
@@ -73,33 +64,5 @@ cd kaggle_faang_project
 
 pip install -r requirements.txt
 ```
-
----
-
-# 🏃 Training
-
-```bash
-python src/train.py
-```
-
----
-
-# 🔮 Inference
-
-```bash
-python src/inference.py
-```
-
----
-
-# 💡 Skills Demonstrated
-
-Machine Learning Engineering
-
-Feature Engineering
-
-Model Optimization
-
-Experiment Tracking
 
 Production‑Ready Code
