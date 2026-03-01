@@ -36,25 +36,6 @@ Models:
 
 ---
 
-# 📂 Project Structure
-
-```
-kaggle_faang_project/
-│
-├── src/
-│   ├── train.py
-│   ├── inference.py
-│
-├── models/
-│
-├── data/
-│
-├── Notebook.ipynb
-├── requirements.txt
-```
-
----
-
 # ⚡ Installation
 
 ```bash
