@@ -2,7 +2,9 @@
 # 🧠 Kaggle Competition Solution 
 
 Author: Mohamad Farahani  
+
 https://www.kaggle.com/competitions/playground-series-s6e2/overview
+
 ---
 
 # 🚀 Overview
